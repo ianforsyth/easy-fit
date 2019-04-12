@@ -16,7 +16,7 @@ describe('easyfit tests', function () {
         }
         expect(fitObject).to.be.a('object');
         expect(fitObject).to.have.property('sessions');
-        done();
+        done(); wow
       });
     });
   });
